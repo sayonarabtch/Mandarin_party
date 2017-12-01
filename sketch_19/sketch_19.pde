@@ -1,5 +1,4 @@
 int n = 10;
-int a = 0;
 
 int[][] mass = new int[n][n];
 for (int i = 0; i < n; i++) {
